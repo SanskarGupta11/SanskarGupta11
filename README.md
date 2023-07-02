@@ -1,4 +1,4 @@
-I am a programmer and data scientist with a passion for building innovative and impactful applications. I am proficient in Python, Java, C++, and JavaScript, and I have experience with a variety of frameworks and libraries. I am also a strong advocate for open source software, and I am always looking for ways to contribute to the community.
+Hey there! I am Sanskar Gupta. A programmer and data scientist with a passion for building innovative and impactful applications. I am proficient in Python, Java, C++, and JavaScript, and I have experience with a variety of frameworks and libraries. I am also a strong advocate for open source software, and I am always looking for ways to contribute to the community.
 
 Projects
 
